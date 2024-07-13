@@ -1,5 +1,9 @@
 # Weatheri App
 
+
+https://github.com/user-attachments/assets/6779b75d-d6df-440b-9dbf-349d6bfb3d2c
+
+
 Weatheri is a Flutter-based weather application that allows users to get weather reports based on their current location or by entering a city or place name. This app utilizes local location services and securely manages API keys using environment variables (`dotenv`).
 
 ## Features
